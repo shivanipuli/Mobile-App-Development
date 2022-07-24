@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="activity1">Layout 1</string>
+    <string name="activity2">Layout 2</string>
+    <string name="activity3">Layout 3</string>
+    <string name="activity4">Layout 4</string>
+    <string name="activity5">Layout 5</string>
+    <string name="activity6">Layout 6</string>
+    <string name="next">Next Layout</string>
+    <string name="longText"> Place the mason jars in the pot of hot water (Note: the pot should be deep enough to fit the entire jar. Don’t submerge the jar – water should come to about ¾ of the jar’s height). Simmer for 3-4 hours, topping up the water bath as needed. Remove from heat and strain the infused milk through cheesecloth. Wring the cheesecloth to get every last bit out.</string>
+    <string name="checkbox">checkbox</string>
+</resources>
