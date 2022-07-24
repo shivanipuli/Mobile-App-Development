@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TextsApp</string>
+    <string name="wordButton">Next</string>
+    <string name="name"> Name</string>
+    <string name="submitButton">Copy</string>
+    <string-array name="array">
+        <item>What </item>
+        <item>has </item>
+        <item>no legs </item>
+        <item>but </item>
+        <item>can do </item>
+        <item>the splits? </item>
+        <item>A turkey! </item>
+    </string-array>
+</resources>
